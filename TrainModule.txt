@@ -1,2 +1,4 @@
 Scenario 1: book train from Delhi to pune
 Scenario 2: book train from Chennai to Bng
+Scenario 3 : Mumbai to Che
+Scenario 4 : Pune to Bng
