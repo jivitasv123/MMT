@@ -1,4 +1,11 @@
 Scenario 1: book train from Delhi to pune
 Scenario 2: book train from Chennai to Bng
+
+
 Scenario 3 : Mumbai to Che
 Scenario 4 : Pune to Bng
+
+//updated by Bala
+Scenario 5 : cancel ticket for all locations
+Scenario 6 : refund for cancel tickets
+
